@@ -19,7 +19,6 @@ Readability-VisualWorks
 
 1. Go to ***System -> Load Parcels Named...*** and install the following dependencies:
 * Grease-VisualWorks-Core
-* HTTP
 * SUnitToo
 * SUnitToo(ls)
 * Regex11
@@ -30,6 +29,7 @@ Readability-VisualWorks
 In a VisualWorks workspace, evaluate:
 
 ```smalltalk
+"Note: You must load the HTTP package."
 (Workspace with: ((HttpClient get: 'http://ws.stfx.eu/N07H5OFUTG00') value getValue) labeled: 'Readability Examples') open.
 ```
 
