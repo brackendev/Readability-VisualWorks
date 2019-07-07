@@ -17,7 +17,7 @@ Readability-VisualWorks
 
 ## Installation
 
-Install the Readability parcel included in this repository.
+Load the Readability parcel included in this repository.
 
 ## Example Usage
 
