@@ -31,7 +31,7 @@ Readability examples.
 Or evaluate:
 
 ```smalltalk
-"Note: You must load the HTTP package."
+"Note: You must have the HTTP package loaded."
 (Workspace with: ((HttpClient get: 'http://ws.stfx.eu/N07H5OFUTG00') value getValue) labeled: 'Readability Examples') open.
 ```
 
