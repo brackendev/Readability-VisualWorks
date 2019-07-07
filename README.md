@@ -17,12 +17,7 @@ Readability-VisualWorks
 
 ## Installation
 
-1. Go to ***System -> Load Parcels Named...*** and install the following dependencies:
-* Grease-VisualWorks-Core
-* SUnitToo
-* SUnitToo(ls)
-* Regex11
-2. Go to ***Tools -> File Browser***, browse to the ***Readability.st*** file, then right-click on the file and select ***File In***.
+Install the Readability parcel included in this repository.
 
 ## Example Usage
 
