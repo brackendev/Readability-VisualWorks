@@ -23,15 +23,16 @@ Load the Readability parcel included in this repository.
 
 In a VisualWorks workspace, evaluate:
 
+
 ```smalltalk
-"Note: You must load the HTTP package."
-(Workspace with: ((HttpClient get: 'http://ws.stfx.eu/N07H5OFUTG00') value getValue) labeled: 'Readability Examples') open.
+Readability examples.
 ```
 
 Or evaluate:
 
 ```smalltalk
-Readability examples.
+"Note: You must load the HTTP package."
+(Workspace with: ((HttpClient get: 'http://ws.stfx.eu/N07H5OFUTG00') value getValue) labeled: 'Readability Examples') open.
 ```
 
 ## Ports
