@@ -21,7 +21,7 @@ Load the Readability parcel included in this repository.
 
 ## Example Usage
 
-In a VisualWorks workspace, evaluate:
+In a Workspace, evaluate:
 
 
 ```smalltalk
