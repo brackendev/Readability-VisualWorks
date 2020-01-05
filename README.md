@@ -1,7 +1,7 @@
 Readability-VisualWorks
 =======================
 
-**Metrics to determine readability and comprehension difficulty for contemporary English text.**
+**Determine readability and comprehension difficulty for contemporary English text.**
 
 * [VisualWorks 8.3](http://www.cincomsmalltalk.com/) reference platform.
 * Examples and tests included.
