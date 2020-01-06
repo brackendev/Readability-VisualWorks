@@ -37,9 +37,10 @@ Or evaluate:
 
 ## Ports
 
-* [Objective-C](http://brackendev.github.io/Readability-Objective-C/)
-* [Pharo](http://brackendev.github.io/Readability-Pharo/)
-* [Swift](http://brackendev.github.io/Readability-Swift/)
+* [Objective-C](https://github.com/brackendev/Readability-Objective-C)
+* [Pharo](https://github.com/brackendev/Readability-Pharo)
+* [Swift](https://github.com/brackendev/Readability-Swift)
+* [VisualWorks](https://github.com/brackendev/Readability-VisualWorks)
 
 ## Author
 
