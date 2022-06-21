@@ -15,6 +15,10 @@ Readability-VisualWorks
 * [Gunning Fog Index](http://en.wikipedia.org/wiki/Gunning_fog_index)
 * [SMOG Grade](http://en.wikipedia.org/wiki/SMOG)
 
+## TODO
+
+- [ ] Support latest VisualWorks release
+
 ## Installation
 
 Load the Readability parcel included in this repository.
